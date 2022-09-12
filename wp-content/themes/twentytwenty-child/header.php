@@ -26,7 +26,7 @@
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'name' ); ?></a>
 
 	<header id="masthead" class="site-header">
-	<h1>Мой новый сайт вавпавп</h1>
+	<h1>Мой новый сайт</h1>
 		
 
 		<!-- <nav id="site-navigation" class="main-navigation">			 

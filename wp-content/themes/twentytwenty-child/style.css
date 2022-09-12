@@ -1,0 +1,12 @@
+/*
+ Theme Name: Twenty Twenty Child  
+ Description: Twenty Seventeen Child Theme
+ Author: catalog 
+ Template: twentytwenty  
+ */ 
+
+@import url("../twentytwenty/style.css");
+
+ body {
+	background: blue;
+ }
